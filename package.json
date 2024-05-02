@@ -1,0 +1,21 @@
+{
+  "name": "nfsebh",
+  "version": "0.0.1",
+  "description": "Just a test package",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "nota fiscal",
+    "nfsebh"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
